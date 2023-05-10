@@ -18,7 +18,7 @@ E-store -> PrintPlate
 - [Product Specification Report](https://docs.google.com/document/d/19Etld2cmngpEBEXrfLkJqL3Faa3TPCNqQ-WfZhJ-Tls)
 - [Jira](https://pickapoint.atlassian.net/jira/software/projects/PIC/boards/1)
 - [API Documentation]()
-- [Sonar Cloud]()
+- [Sonar Cloud](https://sonarcloud.io/summary/overall?id=PickAPoint_DPP_Backend)
 - [PrintPlate]()
 - [PickAPoint]()
 
