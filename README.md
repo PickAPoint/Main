@@ -17,10 +17,13 @@ E-store -> PrintPlate
 - [Quality Assurance Manual](https://docs.google.com/document/d/1yHlPztoHa5wvIR_kl---zGPGZBk4Qx8Us6oWvhbCnoU)
 - [Product Specification Report](https://docs.google.com/document/d/19Etld2cmngpEBEXrfLkJqL3Faa3TPCNqQ-WfZhJ-Tls)
 - [Jira](https://pickapoint.atlassian.net/jira/software/projects/PIC/boards/1)
-- [API Documentation]()
 - [Sonar Cloud](https://sonarcloud.io/summary/overall?id=PickAPoint_DPP_Backend)
 - [PrintPlate](https://printplate.pages.dev/)
+- [PrintPlate API]()
+- [PrintPlate API Documentation]()
 - [PickAPoint]()
+- [PickAPoint API]()
+- [PickAPoint API Documentation]()
 
 ## Github:
 - [Organization](https://github.com/PickAPoint)
