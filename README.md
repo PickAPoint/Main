@@ -19,7 +19,7 @@ E-store -> PrintPlate
 - [Jira](https://pickapoint.atlassian.net/jira/software/projects/PIC/boards/1)
 - [API Documentation]()
 - [Sonar Cloud](https://sonarcloud.io/summary/overall?id=PickAPoint_DPP_Backend)
-- [PrintPlate]()
+- [PrintPlate](https://printplate.pages.dev/)
 - [PickAPoint]()
 
 ## Github:
