@@ -25,6 +25,6 @@ E-store -> PrintPlate
 ## Github:
 - [Organization](https://github.com/PickAPoint)
 - [E-store frontend](https://github.com/PickAPoint/PrintPlate)
-- [E-store backend]()
+- [E-store backend](https://github.com/PickAPoint/eStore_Backend)
 - [DPP frontend](https://github.com/PickAPoint/DPP_Frontend)
 - [DPP backend](https://github.com/PickAPoint/DPP_Backend)
