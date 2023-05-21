@@ -21,7 +21,7 @@ E-store -> PrintPlate
 - [PrintPlate](https://printplate.pages.dev/)
 - [PrintPlate API]()
 - [PrintPlate API Documentation]()
-- [PickAPoint]()
+- [PickAPoint](https://pickapoint.pages.dev/)
 - [PickAPoint API]()
 - [PickAPoint API Documentation]()
 
