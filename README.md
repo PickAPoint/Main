@@ -14,8 +14,6 @@ E-store -> PrintPlate
 | 102778 | Pedro Rodrigues | Product owner | 
 
 ## Links:
-- [Quality Assurance Manual](https://docs.google.com/document/d/1yHlPztoHa5wvIR_kl---zGPGZBk4Qx8Us6oWvhbCnoU)
-- [Product Specification Report](https://docs.google.com/document/d/19Etld2cmngpEBEXrfLkJqL3Faa3TPCNqQ-WfZhJ-Tls)
 - [Jira](https://pickapoint.atlassian.net/jira/software/projects/PIC/boards/1)
 - [Sonar Cloud](https://sonarcloud.io/summary/overall?id=PickAPoint_DPP_Backend)
 - [PrintPlate](http://34.175.190.59:9000/)
