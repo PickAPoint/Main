@@ -18,11 +18,11 @@ E-store -> PrintPlate
 - [Product Specification Report](https://docs.google.com/document/d/19Etld2cmngpEBEXrfLkJqL3Faa3TPCNqQ-WfZhJ-Tls)
 - [Jira](https://pickapoint.atlassian.net/jira/software/projects/PIC/boards/1)
 - [Sonar Cloud](https://sonarcloud.io/summary/overall?id=PickAPoint_DPP_Backend)
-- [PrintPlate](https://printplate.pages.dev/)
-- [PrintPlate API]()
+- [PrintPlate](http://34.175.190.59:9000/)
+- [PrintPlate API](http://34.175.190.59:8080/)
 - [PrintPlate API Documentation]()
-- [PickAPoint](https://pickapoint.pages.dev/)
-- [PickAPoint API]()
+- [PickAPoint](http://34.175.190.59:5173/)
+- [PickAPoint API](http://34.175.190.59:8081/)
 - [PickAPoint API Documentation]()
 
 ## Github:
