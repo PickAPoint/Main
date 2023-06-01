@@ -16,6 +16,7 @@ E-store -> PrintPlate
 ## Links:
 - [Jira](https://pickapoint.atlassian.net/jira/software/projects/PIC/boards/1)
 - [Sonar Cloud](https://sonarcloud.io/summary/overall?id=PickAPoint_DPP_Backend)
+- [Nagios](http://34.175.190.59/nagios/) (nagiosadmin, linux)
 - [PrintPlate](http://34.175.190.59:9000/)
 - [PrintPlate API](http://34.175.190.59:8080/)
 - [PrintPlate API Documentation]()
