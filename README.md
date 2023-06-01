@@ -30,3 +30,4 @@ E-store -> PrintPlate
 - [E-store backend](https://github.com/PickAPoint/eStore_Backend)
 - [DPP frontend](https://github.com/PickAPoint/DPP_Frontend)
 - [DPP backend](https://github.com/PickAPoint/DPP_Backend)
+- [Functional testing](https://github.com/PickAPoint/DDP_BDD)
