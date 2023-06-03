@@ -10,7 +10,7 @@ In the scope of "Teste e Qualidade de Software" course, the main objective of th
 
 PickAPoint consists of a network of Pickup Points that a customer can choose when placing an order. These Pickup Points are physical locations, such as stores or even gas stations, where the customer can pick up their order at a time that is convenient for them. This service benefits both customers and businesses. Additionally, the service also provides an API that can be integrated with e-commerce websites, allowing its customers to choose a Pickup Point when placing an order, and track their status progress.
 
-<img style="width:50%" src="./images/pickapoint.gif">
+<img style="width:50%" src="./images/pickapoint.png">
 
 > If you want to test the service, you can use the following credentials: email: `worten@gmail.com`, password: `worten`.
 
@@ -23,9 +23,9 @@ PickAPoint consists of a network of Pickup Points that a customer can choose whe
 PrintPlate is an e-commerce website where customers can buy art plates. The web application allows customers to choose an existing pickup point available in the PickAPoint network as the delivery method for their order. The website also allows customers to track their orders, and cancel them if they wish to do so.
 
 
-<img style="width:50%" src="./images/printplate.gif">
+<img style="width:50%" src="./images/printplate.png">
 
-> If you want to test the service, you can use the following credentials: email: `pedro@gmail.com`, password: `123`.
+> If you want to test the service, you can use the following credentials: email: `user@test.com`, password: `123456`.
 
 </br>
 
