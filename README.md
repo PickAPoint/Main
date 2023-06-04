@@ -45,10 +45,10 @@ PrintPlate is an e-commerce website where customers can buy art plates. The web 
 - [Nagios](http://34.175.190.59/nagios/) (nagiosadmin, linux)
 - [PrintPlate](http://34.175.190.59:9000/)
 - [PrintPlate API](http://34.175.190.59:8080/)
-- [PrintPlate API Documentation]()
+- [PrintPlate API Documentation](https://documenter.getpostman.com/view/27497156/2s93sW8vAF)
 - [PickAPoint](http://34.175.190.59:5173/)
 - [PickAPoint API](http://34.175.190.59:8081/)
-- [PickAPoint API Documentation]()
+- [PickAPoint API Documentation](https://documenter.getpostman.com/view/27497156/2s93sW8vAK)
 
 </br>
 
