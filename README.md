@@ -43,8 +43,8 @@ PrintPlate is an e-commerce website where customers can buy art plates. The web 
 
 ## Deliverables
 - [Presentation](https://github.com/PickAPoint/Main/blob/main/deliverables/presentation.pdf)
-- [Product Specification]()
-- [QA Manual]()
+- [Product Specification](https://github.com/PickAPoint/Main/blob/main/deliverables/Product_Specification_Report.pdf)
+- [QA Manual](https://github.com/PickAPoint/Main/blob/main/deliverables/QA_Manual.pdf)
 
 ## Links:
 - [Jira](https://pickapoint.atlassian.net/jira/software/projects/PIC/boards/1)
