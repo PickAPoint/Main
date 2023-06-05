@@ -12,7 +12,9 @@ PickAPoint consists of a network of Pickup Points that a customer can choose whe
 
 <img style="width:50%" src="./images/pickapoint.png">
 
-> If you want to test the service, you can use the following credentials: email: `worten@gmail.com`, password: `worten`.
+> If you want to test the service as a partner, you can use the following credentials: email: `worten@gmail.com`, password: `worten`.
+
+> If you want to test the service as admin, you can use the following credentials: email: `admin@pap.com`, password: `admin`.
 
 > Note: If you register a package with your phone number, you will not receive any SMS, since the free trial of Twilio only allows us to send SMS to the owner of the Twilio account.
 
@@ -25,7 +27,7 @@ PrintPlate is an e-commerce website where customers can buy art plates. The web 
 
 <img style="width:50%" src="./images/printplate.png">
 
-> If you want to test the service, you can use the following credentials: email: `user@test.com`, password: `123456`.
+> If you want to test the service, you can use the following credentials: email: `john@gmail.com`, password: `123`.
 
 </br>
 
